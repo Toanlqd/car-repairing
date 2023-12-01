@@ -75,4 +75,3 @@ def CarCheckerMain():
         finally:
             # Refetching the data after the update
             st.experimental_rerun()
-
